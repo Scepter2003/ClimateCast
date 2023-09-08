@@ -17,7 +17,8 @@ body {
 
 .weather-container {
     max-width: 400px;
-    margin:  0;
+    margin-left: 15%;
+    margin-right: 15%;
     background-color: rgba(59, 117, 192, 0.213);
     padding: 20px;
     background: linear-gradient(59, 117, 192, 0.213);
