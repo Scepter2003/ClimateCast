@@ -19,7 +19,7 @@ body {
     max-width: 400px;
     margin: auto;
     background-color: rgba(59, 117, 192, 0.213);
-    padding: 20px;
+    padding: 15px;
     background: linear-gradient(59, 117, 192, 0.213);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
