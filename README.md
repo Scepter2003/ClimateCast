@@ -9,7 +9,3 @@ With ClimateCast, users can quickly access accurate weather data to plan their a
 ## Installation
 
 Clone the repository and open the project in your preferred code editor to make customizations or run it locally.
-
-```bash
-git clone https://github.com/yourusername/climatecast-weather-app.git
-cd climatecast-weather-app
